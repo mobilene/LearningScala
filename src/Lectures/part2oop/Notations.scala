@@ -1,6 +1,7 @@
 package Lectures.part2oop
 
 import java.awt.im.InputMethodRequests
+import language.postfixOps
 
 object Notations extends App {
 

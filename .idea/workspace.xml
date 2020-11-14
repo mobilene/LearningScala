@@ -25,7 +25,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Generics">
+  <component name="RunManager" selected="Application.ListTest">
     <configuration name="Generics" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Lectures.part2oop.Generics" />
       <module name="LearningScala" />
@@ -54,8 +54,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Generics" />
         <item itemvalue="Application.ListTest" />
+        <item itemvalue="Application.Generics" />
       </list>
     </recent_temporary>
   </component>
@@ -75,5 +75,21 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="777" y="434" width="380" height="171" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605391686618" />
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom" timestamp="1605394456825">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605394456825" />
+    <state width="1340" height="266" key="GridCell.Tab.0.center" timestamp="1605394456825">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605394456825" />
+    <state width="1340" height="266" key="GridCell.Tab.0.left" timestamp="1605394456825">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605394456825" />
+    <state width="1340" height="266" key="GridCell.Tab.0.right" timestamp="1605394456825">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605394456825" />
   </component>
 </project>
