@@ -1,7 +1,5 @@
 package Lectures.part2oop
 
-import com.sun.tools.internal.xjc.generator.bean.DualObjectFactoryGenerator
-
 object Generics extends App {
 
   class MyList[+A] {
