@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="946e2f67-73c6-481f-810c-9bba178aab37" name="Default Changelist" comment="" />
+    <list default="true" id="946e2f67-73c6-481f-810c-9bba178aab37" name="Default Changelist" comment="Three more lectures." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +9,13 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Package Object" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,8 +31,35 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Scala" />
   </component>
-  <component name="RunManager" selected="Application.ListTest">
+  <component name="RunManager" selected="Application.PackagingAndImports">
+    <configuration name="CaseClasses" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Lectures.part2oop.CaseClasses" />
+      <module name="LearningScala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lectures.part2oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exceptions" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Lectures.part2oop.Exceptions" />
+      <module name="LearningScala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lectures.part2oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Generics" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Lectures.part2oop.Generics" />
       <module name="LearningScala" />
@@ -52,9 +86,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PackagingAndImports" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Lectures.part2oop.PackagingAndImports" />
+      <module name="LearningScala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lectures.part2oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PackagingAndImports" />
+        <item itemvalue="Application.Exceptions" />
         <item itemvalue="Application.ListTest" />
+        <item itemvalue="Application.CaseClasses" />
         <item itemvalue="Application.Generics" />
       </list>
     </recent_temporary>
@@ -70,26 +120,34 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Three more lectures." />
+    <option name="LAST_COMMIT_MESSAGE" value="Three more lectures." />
+  </component>
   <component name="WindowStateProjectService">
     <state x="777" y="434" width="380" height="171" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1605391686618">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="777" y="434" width="380" height="171" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605391686618" />
-    <state width="1340" height="266" key="GridCell.Tab.0.bottom" timestamp="1605394456825">
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom" timestamp="1605480224247">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605394456825" />
-    <state width="1340" height="266" key="GridCell.Tab.0.center" timestamp="1605394456825">
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605480224247" />
+    <state width="1340" height="266" key="GridCell.Tab.0.center" timestamp="1605480224247">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605394456825" />
-    <state width="1340" height="266" key="GridCell.Tab.0.left" timestamp="1605394456825">
+    <state width="1340" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605480224247" />
+    <state width="1340" height="266" key="GridCell.Tab.0.left" timestamp="1605480224247">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605394456825" />
-    <state width="1340" height="266" key="GridCell.Tab.0.right" timestamp="1605394456825">
+    <state width="1340" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605480224247" />
+    <state width="1340" height="266" key="GridCell.Tab.0.right" timestamp="1605480224247">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605394456825" />
+    <state width="1340" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605480224247" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1605470901957">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605470901957" />
   </component>
 </project>
