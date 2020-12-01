@@ -30,6 +30,6 @@ object PackagingAndImports extends App{
 
   val d = new Date // uses util date because it's imported first
   //use fully qualified name, but it's deprecated
-  val sqlDate = new java.sql.Date(2018, 5, 4)
-  val sqlDate = new SqlDate(2018, 5, 4)
+  // val sqlDate = new java.sql.Date(2018, 5, 4)
+  // val sqlDate = new SqlDate(2018, 5, 4)
 }
