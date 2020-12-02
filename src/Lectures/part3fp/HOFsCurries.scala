@@ -43,4 +43,31 @@ object HOFsCurries extends App {
   println(standardFormat(Math.PI))
   println(preciseFormat(Math.PI))
 
+  /*
+  1. expand MyList
+
+      -add foreach method A=>Unit, apply to every element of MyList
+       [1,2,3].foreach(x => println(x))
+       prints 1 2 3 on separate lines
+
+      -add sort function ((A, A) => Int) => MyList
+       [1,2,3].sort((x, y) => y - x) => [3,2,1]
+
+      -add zipWith function (list, (A, A) => B) => MyList(B)
+       [1,2,3].zipWith([4,5,6], x * y) => [1*3,2*5,3*6]
+
+      -add curried fold function
+       fold(start)(function) => a value
+       [1,2,3].fold(0)(x+y) = 6
+       add first element to zero, add result to second element, add result
+       to third element, ..., until there are no more elements
+
+   2. define method toCurry(f: (Int, Int) => Int) => (Int => Int -> Int)
+      fromCurry(f: (Int => Int => Int)) => (Int, Int) => Int
+
+   3. compose(f,g) => x => f(g(x))
+      andthen(f,g) => x => g(f(x))
+   */
+
+
 }

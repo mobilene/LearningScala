@@ -33,7 +33,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Scala" />
   </component>
-  <component name="RunManager" selected="Application.HOFsCurries">
+  <component name="RunManager" selected="Application.ListTest">
     <configuration name="AnonymousFunctions" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Lectures.part3fp.AnonymousFunctions" />
       <module name="LearningScala" />
@@ -101,9 +101,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ListTest" />
         <item itemvalue="Application.HOFsCurries" />
         <item itemvalue="Application.AnonymousFunctions" />
-        <item itemvalue="Application.ListTest" />
         <item itemvalue="Application.whatsAFunction" />
         <item itemvalue="Application.PackagingAndImports" />
       </list>
@@ -133,22 +133,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="883" y="254" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606680773247" />
-    <state width="1067" height="329" key="GridCell.Tab.0.bottom" timestamp="1606687496997">
+    <state width="1067" height="266" key="GridCell.Tab.0.bottom" timestamp="1606937444605">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1067" height="329" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606687496997" />
-    <state width="1067" height="329" key="GridCell.Tab.0.center" timestamp="1606687496997">
+    <state width="1067" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606937444605" />
+    <state width="1067" height="266" key="GridCell.Tab.0.center" timestamp="1606937444605">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1067" height="329" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606687496997" />
-    <state width="1067" height="329" key="GridCell.Tab.0.left" timestamp="1606687496997">
+    <state width="1067" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606937444605" />
+    <state width="1067" height="266" key="GridCell.Tab.0.left" timestamp="1606937444605">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1067" height="329" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606687496997" />
-    <state width="1067" height="329" key="GridCell.Tab.0.right" timestamp="1606687496997">
+    <state width="1067" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606937444605" />
+    <state width="1067" height="266" key="GridCell.Tab.0.right" timestamp="1606937444605">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1067" height="329" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606687496997" />
+    <state width="1067" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606937444605" />
     <state width="1067" height="329" key="GridCell.Tab.1.bottom" timestamp="1606687496998">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
