@@ -98,4 +98,11 @@ case object ListTest extends App {
   println(listOfIntegers.sort((x, y) => y - x))
   println(listOfIntegers.zipWith[String, String](listOfStrings, _ + "-" + _))
   println(listOfIntegers.fold(0)(_ + _))
+
+  // for comprehensions
+  val combos = for {
+    n <- listOfIntegers
+    string <- listOfStrings
+  } yield n + "-" + string
+  println(combos)
 }

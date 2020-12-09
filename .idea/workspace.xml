@@ -33,20 +33,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Scala" />
   </component>
-  <component name="RunManager" selected="Application.ListTest">
-    <configuration name="AnonymousFunctions" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Lectures.part3fp.AnonymousFunctions" />
-      <module name="LearningScala" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lectures.part3fp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Sequences">
     <configuration name="HOFsCurries" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Lectures.part3fp.HOFsCurries" />
       <module name="LearningScala" />
@@ -73,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PackagingAndImports" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Lectures.part2oop.PackagingAndImports" />
+    <configuration name="MapFlatmapFilterFor" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Lectures.part3fp.MapFlatmapFilterFor" />
       <module name="LearningScala" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lectures.part2oop.*" />
+          <option name="PATTERN" value="Lectures.part3fp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,8 +73,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="whatsAFunction" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Lectures.part3fp.whatsAFunction" />
+    <configuration name="MaybeTest" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises.MaybeTest" />
+      <module name="LearningScala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sequences" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Lectures.part3fp.Sequences" />
       <module name="LearningScala" />
       <extension name="coverage">
         <pattern>
@@ -101,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sequences" />
+        <item itemvalue="Application.MaybeTest" />
         <item itemvalue="Application.ListTest" />
+        <item itemvalue="Application.MapFlatmapFilterFor" />
         <item itemvalue="Application.HOFsCurries" />
-        <item itemvalue="Application.AnonymousFunctions" />
-        <item itemvalue="Application.whatsAFunction" />
-        <item itemvalue="Application.PackagingAndImports" />
       </list>
     </recent_temporary>
   </component>
@@ -129,26 +129,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="777" y="434" width="380" height="171" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605391686618" />
-    <state x="883" y="254" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1606680773247">
+    <state x="883" y="254" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1607537178786">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="883" y="254" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606680773247" />
-    <state width="1067" height="266" key="GridCell.Tab.0.bottom" timestamp="1606937444605">
+    <state x="883" y="254" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607537178786" />
+    <state width="1067" height="266" key="GridCell.Tab.0.bottom" timestamp="1607537240147">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1067" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606937444605" />
-    <state width="1067" height="266" key="GridCell.Tab.0.center" timestamp="1606937444605">
+    <state width="1067" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607537240147" />
+    <state width="1067" height="266" key="GridCell.Tab.0.center" timestamp="1607537240147">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1067" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606937444605" />
-    <state width="1067" height="266" key="GridCell.Tab.0.left" timestamp="1606937444605">
+    <state width="1067" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607537240147" />
+    <state width="1067" height="266" key="GridCell.Tab.0.left" timestamp="1607537240147">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1067" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606937444605" />
-    <state width="1067" height="266" key="GridCell.Tab.0.right" timestamp="1606937444605">
+    <state width="1067" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607537240147" />
+    <state width="1067" height="266" key="GridCell.Tab.0.right" timestamp="1607537240147">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1067" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606937444605" />
+    <state width="1067" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607537240147" />
     <state width="1067" height="329" key="GridCell.Tab.1.bottom" timestamp="1606687496998">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -169,9 +169,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605470901957" />
-    <state x="866" y="237" width="672" height="678" key="search.everywhere.popup" timestamp="1606685748438">
+    <state x="866" y="237" width="672" height="678" key="search.everywhere.popup" timestamp="1607287660694">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="866" y="237" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606685748438" />
+    <state x="866" y="237" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607287660694" />
   </component>
 </project>
