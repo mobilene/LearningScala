@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="946e2f67-73c6-481f-810c-9bba178aab37" name="Default Changelist" comment="Three more lectures." />
+    <list default="true" id="946e2f67-73c6-481f-810c-9bba178aab37" name="Default Changelist" comment="Three more lectures.">
+      <change afterPath="$PROJECT_DIR$/src/Lectures/part3fp/TuplesAndMaps.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,20 +36,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Scala" />
   </component>
-  <component name="RunManager" selected="Application.Sequences">
-    <configuration name="HOFsCurries" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Lectures.part3fp.HOFsCurries" />
-      <module name="LearningScala" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lectures.part3fp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TuplesAndMaps">
     <configuration name="ListTest" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Exercises.ListTest" />
       <module name="LearningScala" />
@@ -99,13 +89,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TuplesAndMaps" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Lectures.part3fp.TuplesAndMaps" />
+      <module name="LearningScala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lectures.part3fp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TuplesAndMaps" />
         <item itemvalue="Application.Sequences" />
         <item itemvalue="Application.MaybeTest" />
         <item itemvalue="Application.ListTest" />
         <item itemvalue="Application.MapFlatmapFilterFor" />
-        <item itemvalue="Application.HOFsCurries" />
       </list>
     </recent_temporary>
   </component>
@@ -120,58 +123,19 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Three more lectures." />
     <option name="LAST_COMMIT_MESSAGE" value="Three more lectures." />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="777" y="434" width="380" height="171" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1605391686618">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="777" y="434" width="380" height="171" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605391686618" />
-    <state x="883" y="254" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1607537178786">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="883" y="254" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607537178786" />
-    <state width="1067" height="266" key="GridCell.Tab.0.bottom" timestamp="1607537240147">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1067" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607537240147" />
-    <state width="1067" height="266" key="GridCell.Tab.0.center" timestamp="1607537240147">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1067" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607537240147" />
-    <state width="1067" height="266" key="GridCell.Tab.0.left" timestamp="1607537240147">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1067" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607537240147" />
-    <state width="1067" height="266" key="GridCell.Tab.0.right" timestamp="1607537240147">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1067" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607537240147" />
-    <state width="1067" height="329" key="GridCell.Tab.1.bottom" timestamp="1606687496998">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1067" height="329" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606687496998" />
-    <state width="1067" height="329" key="GridCell.Tab.1.center" timestamp="1606687496997">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1067" height="329" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606687496997" />
-    <state width="1067" height="329" key="GridCell.Tab.1.left" timestamp="1606687496997">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1067" height="329" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606687496997" />
-    <state width="1067" height="329" key="GridCell.Tab.1.right" timestamp="1606687496998">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1067" height="329" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606687496998" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1605470901957">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605470901957" />
-    <state x="866" y="237" width="672" height="678" key="search.everywhere.popup" timestamp="1607287660694">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="866" y="237" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607287660694" />
   </component>
 </project>
