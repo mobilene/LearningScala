@@ -77,7 +77,7 @@ object HandlingFailure extends App {
   //shorthand
   HttpService.getSafeConnection(host, port)
     .flatMap(connection => connection.getSafe("/home"))
-    .forEach(renderHTML())
+    .foreach(renderHTML)
 
   //for-comprehendion
   for {

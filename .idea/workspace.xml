@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="946e2f67-73c6-481f-810c-9bba178aab37" name="Default Changelist" comment="Three more lectures.">
+      <change afterPath="$PROJECT_DIR$/src/Lectures/part4pm/PatternMatching.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectures/part4pm/PatternsEverywhere.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectures/part4pm/allThePatterns.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearningScala/Lectures/part3fp/HandlingFailure$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningScala/Lectures/part3fp/HandlingFailure$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectures/part3fp/HandlingFailure.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lectures/part3fp/HandlingFailure.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,26 +40,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Scala" />
   </component>
-  <component name="RunManager" selected="Application.HandlingFailure">
+  <component name="RunManager" selected="Application.PatternsEverywhere">
     <configuration name="HandlingFailure" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Lectures.part3fp.HandlingFailure" />
       <module name="LearningScala" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Lectures.part3fp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaybeTest" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises.MaybeTest" />
-      <module name="LearningScala" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +67,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sequences" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Lectures.part3fp.Sequences" />
+    <configuration name="PatternMatching" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Lectures.part4pm.PatternMatching" />
       <module name="LearningScala" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lectures.part3fp.*" />
+          <option name="PATTERN" value="Lectures.part4pm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PatternsEverywhere" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Lectures.part4pm.PatternsEverywhere" />
+      <module name="LearningScala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lectures.part4pm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PatternsEverywhere" />
+        <item itemvalue="Application.PatternMatching" />
         <item itemvalue="Application.HandlingFailure" />
         <item itemvalue="Application.Options" />
         <item itemvalue="Application.TuplesAndMaps" />
-        <item itemvalue="Application.Sequences" />
-        <item itemvalue="Application.MaybeTest" />
       </list>
     </recent_temporary>
   </component>
